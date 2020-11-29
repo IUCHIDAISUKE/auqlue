@@ -12,8 +12,9 @@ This name is **Auqlue**.
 
 This consists of 40 step.
 
-- [x] step1 // develop variable structure
-- [ ] step2 //
+- [x] step1 // add variable structure
+- [x] step2 // add variable structure
+  - Now I implemented method of function, but I think it's better to calculate from the return value of the function.
 - [ ] step3 //
 - [ ] step4 //
 - [ ] step5 //
